@@ -10,6 +10,14 @@
 
 # — 16/02/2022
 
+-Correction du bug bijouterie.
+
+-4 Policiers requis pour faire des braquages de superettes
+
+-4 Policiers requis pour faire des braquages de banque
+
+-4 Policiers requis pour faire des braquages de bijouterie
+
 -Distributeur nourriture accessible en restant appuyant sur [ALT] et en cliquant sur le distributeur (Donne l'argent au burgershot).
 
 -Distributeur boissons accessible en restant appuyant sur [ALT] et en cliquant sur le distributeur (Donne l'argent au bahamas).
