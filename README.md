@@ -6,6 +6,8 @@
 
 -Nouveau véhicule concess
 
+-Alerte tir police
+
 # — 16/02/2022
 
 -Distributeur nourriture accessible en restant appuyant sur [ALT] et en cliquant sur le distributeur (Donne l'argent au burgershot).
