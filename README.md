@@ -1,7 +1,7 @@
 # LS-Dream-FA-project
 
 
-#16/02/2022
+# — 16/02/2022
 
 -Distributeur nourriture accessible en restant appuyant sur [ALT] et en cliquant sur le distributeur (Donne l'argent au burgershot).
 -Distributeur boissons accessible en restant appuyant sur [ALT] et en cliquant sur le distributeur (Donne l'argent au bahamas).
