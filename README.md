@@ -8,6 +8,11 @@
 
 -Alerte tir police
 
+# — 17/02/2022
+
+-Nouveau mécano 
+
+
 # — 16/02/2022
 
 -Correction du bug bijouterie.
