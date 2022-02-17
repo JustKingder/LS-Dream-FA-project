@@ -2,7 +2,9 @@
 
 # — En dev !
 
--Nouveau comico assez unique.
+-Nouveau poste de police
+
+-Pack tenues femmes.
 
 -Nouveau véhicule concess
 
