@@ -10,6 +10,12 @@
 
 -Arme remis en boutique.
 
+-Rajouts lentilles Sharingan / Rinnegan.
+
+-Rajouts Kalash compact point d'armes
+
+-
+
 # — 17/02/2022
 
 -Nouveau mécano 
