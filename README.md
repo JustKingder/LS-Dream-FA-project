@@ -1,14 +1,14 @@
 # LS-Dream-FA-project
 
-# — En dev !
+# — 20/02/2022
 
--Nouveau poste de police
+-New tenues . 
 
--Pack tenues femmes.
+-New emotes dans le menu animations (Fortnite...) 
 
--Nouveau véhicule concess
+-Voiture modifier. (Ferrari F40 , Mercedes 190e , BMW M3 E30)
 
--Alerte tir police
+-Arme remis en boutique.
 
 # — 17/02/2022
 
