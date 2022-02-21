@@ -6,7 +6,7 @@
 
 -New emotes dans le menu animations (Fortnite...) 
 
--Voiture modifier. (Ferrari F40 , Mercedes 190e , BMW M3 E30)
+-Voiture modifier. (Ferrari F40 , Mercedes 190e , BMW M3 E30, felon police, VIR Police, blindée police, golf75r)
 
 -Arme remis en boutique.
 
