@@ -6,7 +6,7 @@
 
 -New emotes dans le menu animations (Fortnite...) 
 
--Voiture modifier. (Ferrari F40 , Mercedes 190e , BMW M3 E30, felon police, VIR Police, blindée police, golf75r)
+-Voiture modifier. (Ferrari F40 , Mercedes 190e , BMW M3 E30, felon police, VIR Police, blindée police, golf75r, scooter de base et Scooter nitro)
 
 -Arme remis en boutique.
 
@@ -14,7 +14,11 @@
 
 -Rajouts Kalash compact point d'armes
 
--
+-Plus possible d'utiliser un  kit de réparation en conduisant.
+
+-New loading screen
+
+-Optimisation Serveur 
 
 # — 17/02/2022
 
