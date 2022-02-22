@@ -18,6 +18,8 @@
 
 -New loading screen
 
+-Correction du masque qui fesait crash.
+
 -Optimisation Serveur 
 
 -Mapping marabunta.
