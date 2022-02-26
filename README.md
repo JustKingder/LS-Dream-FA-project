@@ -1,5 +1,13 @@
 # LS-Dream-FA-project
 
+# — 26/02/2022
+
+-Annulation du déplacement du comico. 
+
+-Rajout du karting en libre accès.
+
+-Marchant de hotdog (Rester appuyer  sur  table et cliquer dessus) 
+
 # — 20/02/2022
 
 -New tenues . 
