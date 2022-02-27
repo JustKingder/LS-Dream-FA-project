@@ -8,6 +8,10 @@
 
 -Marchant de hotdog (Rester appuyer  sur  table et cliquer dessus) 
 
+-Changement hud faim/soif
+
+-Modification de la location véhicules au spawn.
+
 # — 20/02/2022
 
 -New tenues . 
